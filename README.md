@@ -3,7 +3,9 @@
 ## Full Paper
 
 [View](./report.pdf)
+
 ## Abstract
+
 Semantic segmentation research plays an important role in
 image analysis, notably contributing to advancements in
 medical, botanical fields and agricultural automation. This
@@ -23,3 +25,13 @@ mean accuracy of 97.37% and a mean IoU of 94.02%. These
 results highlight the effectiveness of tailored architectures,
 approaching the performance of superior and more complex
 state-of-the-art models for this dataset.
+
+## Example Outputs
+
+### Existing deeplabv3+ resnet50 6 image output
+
+![Existing Output](./existing%20deeplabv3+%20resnet50%206%20image%20output.png)
+
+### Proposed custom network 6 image output
+
+![Proposed Output](./proposed%20custom%20network%206%20image%20output.png)
